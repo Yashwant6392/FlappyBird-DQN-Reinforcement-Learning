@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Training output
+runs/
+*.pt
+*.log
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
